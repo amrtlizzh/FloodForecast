@@ -1,4 +1,6 @@
 🌧️ Rainfall Intensity Prediction using Deep Learning (X-Band Radar)
+
+
 📌 Overview
 
 This project develops a deep learning rainfall prediction system using X-band radar data for short-term rainfall forecasting and early flood warning.
@@ -13,7 +15,9 @@ Three models were implemented and compared:
 
 The system predicts rainfall intensity 15 minutes ahead.
 
+
 🧠 Models
+
 
 LSTM: learns rainfall trends over time
 
@@ -23,13 +27,16 @@ CNN-LSTM: extracts spatial features using CNN and predicts intensity using LSTM
 
 ✅ CNN-LSTM achieved the best performance.
 
+
 ⚙️ Tools
 
 Python • TensorFlow/Keras • NumPy • Pandas • OpenCV • Matplotlib 
 
+
 📂 Dataset used in this project:
 
 👉 https://drive.google.com/drive/u/0/folders/1URGjR37aCQLxn2qEhe8_ylJeRoPmXvy7
+
 
 👩‍💻 Authors
 
